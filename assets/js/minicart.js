@@ -1846,7 +1846,7 @@ var defaults = module.exports = {
 
     parent: (typeof document !== 'undefined') ? document.body : null,
 
-    action: 'https://solomonatgit.github.io/shopping-cart/',
+    action: 'https://solomonatgit.github.io/shopping-cart/index.html',
 
     target: '',
 
