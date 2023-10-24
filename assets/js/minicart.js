@@ -1846,7 +1846,7 @@ var defaults = module.exports = {
 
     parent: (typeof document !== 'undefined') ? document.body : null,
 
-    action: '#index.html',
+    action: 'index.html',
 
     target: '',
 
